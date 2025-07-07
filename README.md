@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/musoukun-ragdb-mcp-badge.png)](https://mseep.ai/app/musoukun-ragdb-mcp)
+
 # RAG MCP Server（RAGDB)
 
 **MCP対応チャットで、RAGDBを管理/検索できるMCPです。**
